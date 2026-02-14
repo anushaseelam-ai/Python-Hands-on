@@ -1,2 +1,3 @@
-# Python-Hands-On
-This repository has all my python hands-on done in Learnbay assessment program.
+# Learnbay-Internship
+
+Hello Everyone, this repository contains all my python hands-on that are done in Learnbay assessment. Learnbay provided a remarkable platform for me to develope my python coding skills that helped me to move forward in my AI & Data Science career.
